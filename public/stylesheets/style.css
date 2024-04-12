@@ -1,0 +1,24 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #0493cc;
+}
+
+li {
+  list-style: none;
+  border: 1px solid #a5a5a5;
+  padding: 0.4em;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  display: block;
+  width: 25em;
+  padding: 0.3em;
+  margin-bottom: 0.5em;
+}
