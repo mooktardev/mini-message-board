@@ -1,4 +1,4 @@
-# Express Message Board
+# Mini Message Board
 
 This is a simple message board web application built using Express.js. It allows users to view existing messages and submit new messages through a web form.
 
